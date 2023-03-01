@@ -1,0 +1,39 @@
+.imgage-wrapper {
+  width: 11rem;
+  height: 11rem;
+}
+.img {
+  border-radius: 0.375rem 0 0 0.375rem;
+}
+.content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-wrapper {
+  padding: 0 1.25rem;
+}
+.product-p {
+  line-height: 1.625;
+  font-size: 0.875rem;
+  color: rgb(90 90 90 / var(--tw-text-opacity));
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.price-tag {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: rgb(33 33 33 / var(--tw-text-opacity));
+  font-weight: 600;
+}
+.my-card {
+  border: 1px solid #f1f1f1;
+  border-radius: 0.375rem;
+}
+.product-heading {
+  margin-bottom: 0.375rem;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: rgb(33 33 33 / var(--tw-text-opacity));
+  font-weight: 600;
+}

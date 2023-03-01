@@ -1,0 +1,32 @@
+.footer {
+  padding: 4rem 2rem;
+  max-width: 1920px;
+  border: 1px solid #e7e7e7;
+  margin-bottom: 0.125rem;
+}
+.margin-footer {
+  margin-bottom: -4rem;
+}
+.footer h4 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: rgb(33 33 33);
+}
+.footer a {
+  font-size: 1rem;
+  line-height: 1.25rem;
+  color: #5a5a5a;
+  padding: 0 0 0.7rem 0;
+  display: inline-block;
+}
+.footer-bottom {
+  padding: 1.25rem;
+}
+.footer-bottom ul {
+  display: flex;
+}
+.footer-bottom a {
+  padding: 0 1rem;
+}

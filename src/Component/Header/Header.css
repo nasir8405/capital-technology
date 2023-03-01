@@ -1,0 +1,35 @@
+.header-container {
+  padding: 1.75rem 1.5rem;
+}
+.nav-link {
+  padding: 0.5rem 1rem !important;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.dropdown-menu {
+  padding-top: 1.25rem !important;
+  padding-bottom: 1.25rem !important;
+  border: none !important;
+  background-color: rgb(249 249 249) !important;
+  border-radius: 0 !important;
+  width: 240px;
+  top: 188% !important;
+}
+.dropdown-item {
+  padding-right: 0.875rem !important;
+  padding-left: 1.75rem !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+@media screen and (max-width: 576px) {
+  .nav-right {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .nav-right {
+    display: none;
+  }
+}
